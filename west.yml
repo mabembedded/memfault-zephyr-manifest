@@ -266,7 +266,3 @@ manifest:
 
   group-filter:
     - -ci
-
-  self:
-    path: zephyr
-    west-commands: scripts/west-commands.yml
