@@ -263,6 +263,9 @@ manifest:
     - name: zscilib
       path: modules/lib/zscilib
       revision: ca070ddabdaf67175a2da901d0bd62e8899371c5
+    - name: zephyr
+      path: zephyr
+      revision: v3.2.0
 
   group-filter:
     - -ci
